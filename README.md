@@ -60,7 +60,7 @@ Install JDK 21 to be able to run this application!
 
 ### Installation
 
-1. Download the FBLA folder
+1. Download and extract the FBLA folder
 2. Go to dist folder
 3. Execute FBLA.jar!
 

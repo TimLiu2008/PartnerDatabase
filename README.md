@@ -58,11 +58,9 @@ Are you a school that engages with a great deal of partners? Do you find it hard
 
 ### Prerequisites
 
-
+Install Java 
 
 ### Installation
-
-_This application will not require any additional services to execute._
 
 1. Download the PartnerDatabase.jar file
 2. Execute!
@@ -87,6 +85,6 @@ Project Link: [https://github.com/TimLiu2008/PartnerDatabase](https://github.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-
+GitHub user k33ptoo for KGradientPanel - [https://github.com/k33ptoo/KGradientPanel](https://github.com/k33ptoo/KGradientPanel)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

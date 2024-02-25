@@ -76,7 +76,7 @@ _This application will not require any additional services to execute._
 
 Tim Liu - tim.tianenliu@gmail.com
 
-Project Link: [https://github.com/TimLiu2008/PartnerDatabase](https://github.com/your_username/repo_name](https://github.com/TimLiu2008/PartnerDatabase))
+Project Link: [https://github.com/TimLiu2008/PartnerDatabase](https://github.com/TimLiu2008/PartnerDatabase)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

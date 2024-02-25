@@ -48,7 +48,7 @@ Are you a school that engages with a great deal of partners? Do you find it hard
 * GUI is built with JFrame for its intuitive and simplistic nature. This allows for users to navigate the program easily while looking aesthically pleasing to the eye.
 * All functions such as searching or filtering written in this program are built off of purely Java code and libraries to ensure the bar of entry to using this program is exceptionally low. This makes it easy for people who understand little to nothing about computers to be able to use this program. 
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->

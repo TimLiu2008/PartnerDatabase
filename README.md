@@ -86,6 +86,7 @@ Project Link: [https://github.com/TimLiu2008/PartnerDatabase](https://github.com
 ## Acknowledgments
 
 GitHub user k33ptoo for KGradientPanel - [https://github.com/k33ptoo/KGradientPanel](https://github.com/k33ptoo/KGradientPanel)
+
 Github user DevCharly for FlatLaf - [https://github.com/JFormDesigner](https://github.com/JFormDesigner/FlatLaf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

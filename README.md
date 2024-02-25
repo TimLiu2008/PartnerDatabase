@@ -42,7 +42,7 @@ Are you a school that engages with a great deal of partners? Do you find it hard
 
 
 
-### Built With
+## Built With
 
 * Code is written in Java for its heightened security for the important data being stored in the database. It is also platform independent, meaning that it can run on any system allowing for this program to be versitile and flexible to accommodate for the needs of different schools.
 * GUI is built with JFrame for its intuitive and simplistic nature. This allows for users to navigate the program easily while looking aesthically pleasing to the eye.

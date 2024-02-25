@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Are you a school that engages with a great deal of partners? Do you find it hard to keep track of all of them? Well, do not fret, here is your solution! Introducing the Partner Database! Digital databases on computers were first created in the 1960s. Over time, data that was previously stored physically is now stored digitally due to its convenience.
+Are you a school that engages with a great deal of partners? Do you find it hard to keep track of all of them? Well, do not fret, here is your solution! Introducing our cutting-edge partner database designed specifically to streamline organizational tasks for schools. With our intuitive platform, schools can efficiently manage and organize their partnerships with ease. From local businesses to community organizations and beyond, our database offers a comprehensive solution to catalog, track, and engage with partners effectively. Featuring customizable fields, seamless communication tools, and robust reporting capabilities, educators can effortlessly coordinate collaborations, track outcomes, and foster meaningful relationships that enhance the educational experience for students. Say goodbye to cumbersome spreadsheets and hello to a centralized hub for all your partnership needs. Experience the power of streamlined organization with our partner database today.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

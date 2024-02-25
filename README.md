@@ -76,7 +76,7 @@ Install JDK 21 to be able to run this application!
 
 Tim Liu - tim.tianenliu@gmail.com
 
-Project Link: [https://github.com/TimLiu2008/PartnerDatabase](https://github.com/TimLiu2008/PartnerDatabase)
+Project Link - [https://github.com/TimLiu2008/PartnerDatabase](https://github.com/TimLiu2008/PartnerDatabase)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

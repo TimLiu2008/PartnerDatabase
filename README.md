@@ -58,7 +58,7 @@ Are you a school that engages with a great deal of partners? Do you find it hard
 
 ### Prerequisites
 
-Install Java 
+Install JDK 21 to be able to run this application!
 
 ### Installation
 

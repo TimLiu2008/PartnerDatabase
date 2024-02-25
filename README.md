@@ -54,16 +54,15 @@ Are you a school that engages with a great deal of partners? Do you find it hard
 <!-- GETTING STARTED -->
 ## Getting Started
 
-FBLA.zip is the source code for this program
-
 ### Prerequisites
 
 Install JDK 21 to be able to run this application!
 
 ### Installation
 
-1. Download the FBLA.jar file
-2. Execute!
+1. Download the FBLA folder
+2. Go to dist folder
+3. Execute FBLA.jar!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

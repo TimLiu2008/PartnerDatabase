@@ -74,7 +74,7 @@ _This application will not require any additional services to execute._
 <!-- CONTACT -->
 ## Contact
 
-Tim Liu - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Tim Liu - tim.tianenliu@gmail.com
 
 Project Link: [https://github.com/TimLiu2008/PartnerDatabase](https://github.com/your_username/repo_name](https://github.com/TimLiu2008/PartnerDatabase))
 
@@ -88,4 +88,3 @@ Project Link: [https://github.com/TimLiu2008/PartnerDatabase](https://github.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-[JQuery-url]: https://jquery.com 
